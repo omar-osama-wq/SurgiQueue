@@ -1,0 +1,13 @@
+[
+    {
+        "patient_id": "P001",
+        "patient_name": "John Smith",
+        "diagnosis": "Severe Allergy",
+        "urgency_level": "Medium",
+        "doctor": "amar",
+        "surgery_type": "heart surgery",
+        "date": "2026/10/25",
+        "room": 1,
+        "status": "Completed"
+    }
+]
