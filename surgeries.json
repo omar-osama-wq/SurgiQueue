@@ -1,13 +1,13 @@
 [
     {
-        "patient_id": "P001",
-        "patient_name": "John Smith",
-        "diagnosis": "Severe Allergy",
-        "urgency_level": "Medium",
-        "doctor": "amar",
-        "surgery_type": "heart surgery",
-        "date": "2026/10/25",
-        "room": 1,
-        "status": "Completed"
+        "patient_id": "P002",
+        "patient_name": "Sarah Connor",
+        "diagnosis": "Hypertension",
+        "urgency_level": "High",
+        "doctor": "\u0639\u0644\u064a",
+        "surgery_type": "\u062c\u0631\u0627\u062d\u0647",
+        "date": "2026/9/8",
+        "room": 2,
+        "status": "Scheduled"
     }
 ]

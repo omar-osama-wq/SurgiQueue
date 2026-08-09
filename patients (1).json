@@ -1,0 +1,44 @@
+[
+    {
+        "patient_id": "P001",
+        "name": "John Smith",
+        "age": 30,
+        "diagnosis": "Severe Allergy",
+        "urgency_level": "Medium"
+    },
+    {
+        "patient_id": "P002",
+        "name": "Sarah Connor",
+        "age": 45,
+        "diagnosis": "Hypertension",
+        "urgency_level": "High"
+    },
+    {
+        "patient_id": "P003",
+        "name": "Michael Johnson",
+        "age": 28,
+        "diagnosis": "Fractured Arm",
+        "urgency_level": "Low"
+    },
+    {
+        "patient_id": "P004",
+        "name": "Emily Davis",
+        "age": 52,
+        "diagnosis": "Type 2 Diabetes",
+        "urgency_level": "Medium"
+    },
+    {
+        "patient_id": "P005",
+        "name": "David Wilson",
+        "age": 60,
+        "diagnosis": "Chest Pain",
+        "urgency_level": "Critical"
+    },
+    {
+        "patient_id": "P006",
+        "name": "Jessica Brown",
+        "age": 35,
+        "diagnosis": "Asthma Attack",
+        "urgency_level": "High"
+    }
+]
